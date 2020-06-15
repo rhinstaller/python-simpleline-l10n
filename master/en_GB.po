@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-12-16 16:57+0100\n"
+"POT-Creation-Date: 2020-06-15 14:39+0200\n"
 "PO-Revision-Date: 2017-07-26 09:50+0000\n"
 "Last-Translator: Jiri Konecny <jkonecny@redhat.com>\n"
 "Language-Team: English (United Kingdom)\n"
@@ -15,71 +15,71 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "X-Generator: Zanata 4.6.2\n"
 
-#: ../simpleline/render/adv_widgets.py:41
+#: ../simpleline/render/adv_widgets.py:42
 msgid "Error"
 msgstr "Error"
 
-#: ../simpleline/render/adv_widgets.py:50
+#: ../simpleline/render/adv_widgets.py:51
 #, python-format
 msgid "Press %s to exit"
 msgstr "Press %s to exit"
 
-#: ../simpleline/render/adv_widgets.py:69
+#: ../simpleline/render/adv_widgets.py:70
 msgid "Password"
 msgstr "Password"
 
-#: ../simpleline/render/adv_widgets.py:70
+#: ../simpleline/render/adv_widgets.py:71
 msgid "Enter your passphrase"
 msgstr "Enter your passphrase"
 
-#: ../simpleline/render/adv_widgets.py:83
+#: ../simpleline/render/adv_widgets.py:84
 msgid "Passphrase: "
 msgstr "Passphrase: "
 
-#: ../simpleline/render/adv_widgets.py:120
+#: ../simpleline/render/adv_widgets.py:121
 msgid "Question"
 msgstr "Question"
 
-#: ../simpleline/render/adv_widgets.py:130
+#: ../simpleline/render/adv_widgets.py:131
 #, python-format
 msgid "Please respond '%(yes)s' or '%(no)s'"
 msgstr "Please respond '%(yes)s' or '%(no)s'"
 
-#: ../simpleline/render/adv_widgets.py:166
+#: ../simpleline/render/adv_widgets.py:167
 msgid "Help"
 msgstr "Help"
 
-#: ../simpleline/render/adv_widgets.py:172
+#: ../simpleline/render/adv_widgets.py:173
 msgid "The help is not available."
 msgstr "The help is not available."
 
-#: ../simpleline/render/adv_widgets.py:185
+#: ../simpleline/render/adv_widgets.py:186
 #, python-format
 msgid "Press %s to return"
 msgstr "Press %s to return"
 
 #. Default message of the prompt
-#: ../simpleline/render/prompt.py:31
+#: ../simpleline/render/prompt.py:32
 msgid "Please make a selection from the above"
 msgstr ""
 
 #. String to use in a prompt when we want users to press the key ENTER.
-#: ../simpleline/render/prompt.py:34
+#: ../simpleline/render/prompt.py:35
 msgid "ENTER"
 msgstr "ENTER"
 
-#: ../simpleline/render/prompt.py:38
+#: ../simpleline/render/prompt.py:39
 msgid "to quit"
 msgstr "to quit"
 
-#: ../simpleline/render/prompt.py:42
+#: ../simpleline/render/prompt.py:43
 msgid "to continue"
 msgstr "to continue"
 
-#: ../simpleline/render/prompt.py:46
+#: ../simpleline/render/prompt.py:47
 msgid "to refresh"
 msgstr "to refresh"
 
-#: ../simpleline/render/prompt.py:50
+#: ../simpleline/render/prompt.py:51
 msgid "to help"
 msgstr "to help"
