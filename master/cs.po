@@ -1,23 +1,24 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # Jiri Konecny <jkonecny@redhat.com>, 2016. #zanata
 # Jiri Konecny <jkonecny@redhat.com>, 2017. #zanata
+# Jiří Konečný <jkonecny@redhat.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-12-16 16:57+0100\n"
-"PO-Revision-Date: 2017-01-12 01:24+0000\n"
-"Last-Translator: Jiri Konecny <jkonecny@redhat.com>\n"
-"Language-Team: Czech\n"
+"PO-Revision-Date: 2020-06-15 13:10+0000\n"
+"Last-Translator: Jiří Konečný <jkonecny@redhat.com>\n"
+"Language-Team: Czech <https://translate.fedoraproject.org/projects/"
+"python-simpleline/master/cs/>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
-"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 4.0.4\n"
 
 #: ../simpleline/render/adv_widgets.py:41
 msgid "Error"
@@ -34,11 +35,11 @@ msgstr "Heslo"
 
 #: ../simpleline/render/adv_widgets.py:70
 msgid "Enter your passphrase"
-msgstr "Zadejte heslo:"
+msgstr "Zadejte heslo"
 
 #: ../simpleline/render/adv_widgets.py:83
 msgid "Passphrase: "
-msgstr "Heslo:"
+msgstr "Heslo: "
 
 #: ../simpleline/render/adv_widgets.py:120
 msgid "Question"
@@ -47,7 +48,7 @@ msgstr "Otázka"
 #: ../simpleline/render/adv_widgets.py:130
 #, python-format
 msgid "Please respond '%(yes)s' or '%(no)s'"
-msgstr "Prosím odpovězte '%(yes)s' nebo '%(no)s':"
+msgstr "Prosím odpovězte '%(yes)s' nebo '%(no)s'"
 
 #: ../simpleline/render/adv_widgets.py:166
 msgid "Help"
