@@ -1,22 +1,23 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # Jean-Baptiste Holcroft <jean-baptiste@holcroft.fr>, 2019. #zanata
+# Julien Humbert <julroy67@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 14:39+0200\n"
-"PO-Revision-Date: 2019-01-21 08:09+0000\n"
-"Last-Translator: Jean-Baptiste Holcroft <jean-baptiste@holcroft.fr>\n"
-"Language-Team: French\n"
+"PO-Revision-Date: 2020-06-22 06:40+0000\n"
+"Last-Translator: Julien Humbert <julroy67@gmail.com>\n"
+"Language-Team: French <https://translate.fedoraproject.org/projects/"
+"python-simpleline/master/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1)\n"
-"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #: ../simpleline/render/adv_widgets.py:42
 msgid "Error"
@@ -33,7 +34,7 @@ msgstr "Mot de passe"
 
 #: ../simpleline/render/adv_widgets.py:71
 msgid "Enter your passphrase"
-msgstr "Saisissez votre phrase de passe :"
+msgstr "Saisissez votre phrase de passe"
 
 #: ../simpleline/render/adv_widgets.py:84
 msgid "Passphrase: "
@@ -46,7 +47,7 @@ msgstr "Question"
 #: ../simpleline/render/adv_widgets.py:131
 #, python-format
 msgid "Please respond '%(yes)s' or '%(no)s'"
-msgstr "Veuillez répondre par « %(yes)s » ou par  « %(no)s » : "
+msgstr "Veuillez répondre par « %(yes)s » ou par « %(no)s »"
 
 #: ../simpleline/render/adv_widgets.py:167
 msgid "Help"
