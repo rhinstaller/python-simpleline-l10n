@@ -1,66 +1,67 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # Jiri Konecny <jkonecny@redhat.com>, 2016. #zanata
 # Jiri Konecny <jkonecny@redhat.com>, 2019. #zanata
+# Maria Betania Honorio <betanialinux@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 14:39+0200\n"
-"PO-Revision-Date: 2019-08-22 12:29+0000\n"
-"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
-"Language-Team: Portuguese (Brazil)\n"
+"PO-Revision-Date: 2020-07-17 17:29+0000\n"
+"Last-Translator: Maria Betania Honorio <betanialinux@gmail.com>\n"
+"Language-Team: Portuguese (Brazil) <https://translate.fedoraproject.org/"
+"projects/python-simpleline/rhel-8/pt_BR/>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
-"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #: ../simpleline/render/adv_widgets.py:42
 msgid "Error"
-msgstr ""
+msgstr "Erro"
 
 #: ../simpleline/render/adv_widgets.py:51
 #, python-format
 msgid "Press %s to exit"
-msgstr ""
+msgstr "Pressione %s  para sair"
 
 #: ../simpleline/render/adv_widgets.py:70
 msgid "Password"
-msgstr ""
+msgstr "Senha"
 
 #: ../simpleline/render/adv_widgets.py:71
 msgid "Enter your passphrase"
-msgstr ""
+msgstr "Digite sua senha"
 
 #: ../simpleline/render/adv_widgets.py:84
 msgid "Passphrase: "
-msgstr ""
+msgstr "Senha "
 
 #: ../simpleline/render/adv_widgets.py:121
 msgid "Question"
-msgstr ""
+msgstr "Questão"
 
 #: ../simpleline/render/adv_widgets.py:131
 #, python-format
 msgid "Please respond '%(yes)s' or '%(no)s'"
-msgstr ""
+msgstr "Responda   '%(sim)s' ou'%(não)s'"
 
 #: ../simpleline/render/adv_widgets.py:167
 msgid "Help"
-msgstr ""
+msgstr "Ajuda"
 
 #: ../simpleline/render/adv_widgets.py:173
 msgid "The help is not available."
-msgstr ""
+msgstr "A ajuda não esta disponível"
 
 #: ../simpleline/render/adv_widgets.py:186
 #, python-format
 msgid "Press %s to return"
-msgstr ""
+msgstr "Pressione %s para retornar"
 
 #. Default message of the prompt
 #: ../simpleline/render/prompt.py:32
