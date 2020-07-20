@@ -1,66 +1,67 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # Jiri Konecny <jkonecny@redhat.com>, 2016. #zanata
 # Jiri Konecny <jkonecny@redhat.com>, 2019. #zanata
+# Jiří Konečný <jkonecny@redhat.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 14:39+0200\n"
-"PO-Revision-Date: 2019-08-22 12:29+0000\n"
-"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
-"Language-Team: Chinese (China)\n"
+"PO-Revision-Date: 2020-07-21 09:29+0000\n"
+"Last-Translator: Jiří Konečný <jkonecny@redhat.com>\n"
+"Language-Team: Chinese (Simplified) <https://translate.fedoraproject.org/"
+"projects/python-simpleline/master/zh_CN/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0\n"
-"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #: ../simpleline/render/adv_widgets.py:42
 msgid "Error"
-msgstr ""
+msgstr "错误"
 
 #: ../simpleline/render/adv_widgets.py:51
 #, python-format
 msgid "Press %s to exit"
-msgstr ""
+msgstr "按 %s 退出"
 
 #: ../simpleline/render/adv_widgets.py:70
 msgid "Password"
-msgstr ""
+msgstr "密码"
 
 #: ../simpleline/render/adv_widgets.py:71
 msgid "Enter your passphrase"
-msgstr ""
+msgstr "输入您的密码"
 
 #: ../simpleline/render/adv_widgets.py:84
 msgid "Passphrase: "
-msgstr ""
+msgstr "口令： "
 
 #: ../simpleline/render/adv_widgets.py:121
 msgid "Question"
-msgstr ""
+msgstr "问题"
 
 #: ../simpleline/render/adv_widgets.py:131
 #, python-format
 msgid "Please respond '%(yes)s' or '%(no)s'"
-msgstr ""
+msgstr "请回答 '%(yes)s' 或 '%(no)s'"
 
 #: ../simpleline/render/adv_widgets.py:167
 msgid "Help"
-msgstr ""
+msgstr "帮助"
 
 #: ../simpleline/render/adv_widgets.py:173
 msgid "The help is not available."
-msgstr ""
+msgstr "帮助不可用。"
 
 #: ../simpleline/render/adv_widgets.py:186
 #, python-format
 msgid "Press %s to return"
-msgstr ""
+msgstr "按 %s 返回"
 
 #. Default message of the prompt
 #: ../simpleline/render/prompt.py:32
