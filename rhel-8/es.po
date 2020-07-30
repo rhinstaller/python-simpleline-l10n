@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-06-15 14:39+0200\n"
+"POT-Creation-Date: 2020-07-30 16:27+0200\n"
 "PO-Revision-Date: 2017-09-12 11:33+0000\n"
 "Last-Translator: Máximo Castañeda Riloba <mcrcctm@gmail.com>\n"
 "Language-Team: Spanish\n"
@@ -19,24 +19,24 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "X-Generator: Zanata 4.6.2\n"
 
-#: ../simpleline/render/adv_widgets.py:42
+#: ../simpleline/render/adv_widgets.py:41
 msgid "Error"
 msgstr "Error"
 
-#: ../simpleline/render/adv_widgets.py:51
+#: ../simpleline/render/adv_widgets.py:50
 #, python-format
 msgid "Press %s to exit"
 msgstr "Pulse %s para salir"
 
-#: ../simpleline/render/adv_widgets.py:70
+#: ../simpleline/render/adv_widgets.py:69
 msgid "Password"
 msgstr "Contraseña"
 
-#: ../simpleline/render/adv_widgets.py:71
+#: ../simpleline/render/adv_widgets.py:70
 msgid "Enter your passphrase"
 msgstr "Introduzca su contraseña"
 
-#: ../simpleline/render/adv_widgets.py:84
+#: ../simpleline/render/adv_widgets.py:83
 msgid "Passphrase: "
 msgstr "Contraseña: "
 
@@ -63,27 +63,27 @@ msgid "Press %s to return"
 msgstr "Pulse %s para volver"
 
 #. Default message of the prompt
-#: ../simpleline/render/prompt.py:32
+#: ../simpleline/render/prompt.py:31
 msgid "Please make a selection from the above"
 msgstr "Seleccione una opción de las anteriores"
 
 #. String to use in a prompt when we want users to press the key ENTER.
-#: ../simpleline/render/prompt.py:35
+#: ../simpleline/render/prompt.py:34
 msgid "ENTER"
 msgstr "INTRO"
 
-#: ../simpleline/render/prompt.py:39
+#: ../simpleline/render/prompt.py:38
 msgid "to quit"
 msgstr "para salir"
 
-#: ../simpleline/render/prompt.py:43
+#: ../simpleline/render/prompt.py:42
 msgid "to continue"
 msgstr "para contnuar"
 
-#: ../simpleline/render/prompt.py:47
+#: ../simpleline/render/prompt.py:46
 msgid "to refresh"
 msgstr "para actualizar"
 
-#: ../simpleline/render/prompt.py:51
+#: ../simpleline/render/prompt.py:50
 msgid "to help"
 msgstr "para ayuda"
