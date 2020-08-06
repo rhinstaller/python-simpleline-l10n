@@ -5,13 +5,14 @@
 # Jiri Konecny <jkonecny@redhat.com>, 2019. #zanata
 # Maria Betania Honorio <betanialinux@gmail.com>, 2020.
 # Jiří Konečný <jkonecny@redhat.com>, 2020.
+# Caio Fontes de Castro <caiofcastro@usp.br>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-30 16:27+0200\n"
-"PO-Revision-Date: 2020-07-21 09:29+0000\n"
-"Last-Translator: Jiří Konečný <jkonecny@redhat.com>\n"
+"PO-Revision-Date: 2020-08-07 04:29+0000\n"
+"Last-Translator: Caio Fontes de Castro <caiofcastro@usp.br>\n"
 "Language-Team: Portuguese (Brazil) <https://translate.fedoraproject.org/"
 "projects/python-simpleline/rhel-8/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -36,7 +37,7 @@ msgstr "Senha"
 
 #: ../simpleline/render/adv_widgets.py:70
 msgid "Enter your passphrase"
-msgstr "Digite sua senha"
+msgstr "Digite sua frase-senha"
 
 #: ../simpleline/render/adv_widgets.py:83
 msgid "Passphrase: "
@@ -44,12 +45,12 @@ msgstr "Frase-senha: "
 
 #: ../simpleline/render/adv_widgets.py:121
 msgid "Question"
-msgstr "Questão"
+msgstr "Pergunta"
 
 #: ../simpleline/render/adv_widgets.py:131
 #, python-format
 msgid "Please respond '%(yes)s' or '%(no)s'"
-msgstr "Responda '%(yes)s' ou'%(no)s'"
+msgstr "Responda '%(yes)s' ou '%(no)s'"
 
 #: ../simpleline/render/adv_widgets.py:167
 msgid "Help"
