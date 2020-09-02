@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 14:39+0200\n"
-"PO-Revision-Date: 2020-08-21 17:29+0000\n"
+"PO-Revision-Date: 2020-09-03 13:29+0000\n"
 "Last-Translator: Göran Uddeborg <goeran@uddeborg.se>\n"
 "Language-Team: Swedish <https://translate.fedoraproject.org/projects/"
 "python-simpleline/master/sv/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Weblate 4.2.2\n"
 
 #: ../simpleline/render/adv_widgets.py:42
 msgid "Error"
@@ -27,41 +27,41 @@ msgstr "Fel"
 #: ../simpleline/render/adv_widgets.py:51
 #, python-format
 msgid "Press %s to exit"
-msgstr ""
+msgstr "Tryck %s för att avsluta"
 
 #: ../simpleline/render/adv_widgets.py:70
 msgid "Password"
-msgstr ""
+msgstr "Lösenord"
 
 #: ../simpleline/render/adv_widgets.py:71
 msgid "Enter your passphrase"
-msgstr ""
+msgstr "Ange din lösenfras"
 
 #: ../simpleline/render/adv_widgets.py:84
 msgid "Passphrase: "
-msgstr ""
+msgstr "Lösenfras: "
 
 #: ../simpleline/render/adv_widgets.py:121
 msgid "Question"
-msgstr ""
+msgstr "Fråga"
 
 #: ../simpleline/render/adv_widgets.py:131
 #, python-format
 msgid "Please respond '%(yes)s' or '%(no)s'"
-msgstr ""
+msgstr "Svara ”%(yes)s” eller ”%(no)s”"
 
 #: ../simpleline/render/adv_widgets.py:167
 msgid "Help"
-msgstr ""
+msgstr "Hjälp"
 
 #: ../simpleline/render/adv_widgets.py:173
 msgid "The help is not available."
-msgstr ""
+msgstr "Hjälpen är inte tillgänglig."
 
 #: ../simpleline/render/adv_widgets.py:186
 #, python-format
 msgid "Press %s to return"
-msgstr ""
+msgstr "Tryck %s för att återgå"
 
 #. Default message of the prompt
 #: ../simpleline/render/prompt.py:32
