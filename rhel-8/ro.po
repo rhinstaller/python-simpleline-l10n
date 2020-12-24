@@ -7,79 +7,83 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-30 16:27+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2020-12-25 19:36+0000\n"
+"Last-Translator: Vlad <milovlad@outlook.com>\n"
+"Language-Team: Romanian <https://translate.fedoraproject.org/projects/"
+"python-simpleline/rhel-8/ro/>\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Weblate 4.3.2\n"
 
 #: ../simpleline/render/adv_widgets.py:41
 msgid "Error"
-msgstr ""
+msgstr "Eroare"
 
 #: ../simpleline/render/adv_widgets.py:50
 #, python-format
 msgid "Press %s to exit"
-msgstr ""
+msgstr "Apasă %s pentru ieșire"
 
 #: ../simpleline/render/adv_widgets.py:69
 msgid "Password"
-msgstr ""
+msgstr "Parolă"
 
 #: ../simpleline/render/adv_widgets.py:70
 msgid "Enter your passphrase"
-msgstr ""
+msgstr "Introduceți fraza secretă"
 
 #: ../simpleline/render/adv_widgets.py:83
 msgid "Passphrase: "
-msgstr ""
+msgstr "Fraza secretă: "
 
 #: ../simpleline/render/adv_widgets.py:121
 msgid "Question"
-msgstr ""
+msgstr "Întrebare"
 
 #: ../simpleline/render/adv_widgets.py:131
 #, python-format
 msgid "Please respond '%(yes)s' or '%(no)s'"
-msgstr ""
+msgstr "Te rog să răspunzi cu '%(yes)s' sau '%(no)s'"
 
 #: ../simpleline/render/adv_widgets.py:167
 msgid "Help"
-msgstr ""
+msgstr "Ajutor"
 
 #: ../simpleline/render/adv_widgets.py:173
 msgid "The help is not available."
-msgstr ""
+msgstr "Pagina de ajutor nu este disponibilă."
 
 #: ../simpleline/render/adv_widgets.py:186
 #, python-format
 msgid "Press %s to return"
-msgstr ""
+msgstr "Apasă %s pentru întoarcere"
 
 #. Default message of the prompt
 #: ../simpleline/render/prompt.py:31
 msgid "Please make a selection from the above"
-msgstr ""
+msgstr "Te rog să faci o selecție din cele prezentate mai sus"
 
 #. String to use in a prompt when we want users to press the key ENTER.
 #: ../simpleline/render/prompt.py:34
 msgid "ENTER"
-msgstr ""
+msgstr "ENTER"
 
 #: ../simpleline/render/prompt.py:38
 msgid "to quit"
-msgstr ""
+msgstr "pentru părăsire"
 
 #: ../simpleline/render/prompt.py:42
 msgid "to continue"
-msgstr ""
+msgstr "pentru continuare"
 
 #: ../simpleline/render/prompt.py:46
 msgid "to refresh"
-msgstr ""
+msgstr "pentru reîmprospătare"
 
 #: ../simpleline/render/prompt.py:50
 msgid "to help"
-msgstr ""
+msgstr "pentru ajutor"
