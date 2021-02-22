@@ -1,0 +1,69 @@
+name: Automate pot file creation
+on:
+  schedule:
+    - cron: 0 0 * * *
+  workflow_dispatch:
+
+jobs:
+  update-pot-file:
+    container:
+      image: registry.fedoraproject.org/fedora:latest
+    strategy:
+      # only one job at once otherwise one job will push and second job will get conflict on remote
+      max-parallel: 1
+      # update this matrix to support new Anaconda branches
+      matrix:
+        branch: [ master, rhel-8 ]
+        include:
+          - branch: master
+            upstream: master
+          - branch: rhel-8
+            upstream: 1.1
+
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install dependencies
+        run: dnf install -y make gettext diffutils git
+
+      - name: Checkout simpleline l10n
+        uses: actions/checkout@v2
+        with:
+          path: simpleline-l10n
+
+      - name: Checkout Simpleline code
+        uses: actions/checkout@v2
+        with:
+          path: simpleline-code
+          repository: rhinstaller/python-simpleline
+          ref: ${{ matrix.upstream }}
+
+      - name: Create pot file
+        run: |
+          set -eux
+
+          pushd simpleline-code
+          make potfile
+          popd
+
+          cp -v simpleline-code/po/python-simpleline.pot simpleline-l10n/${{ matrix.branch }}/
+
+      - name: Push new potfile
+        run: |
+          set -eux
+
+          cd simpleline-l10n
+
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add ${{ matrix.branch }}/python-simpleline.pot
+          
+          # Check if there are any translations changed
+          # The "POT-Creation-Date:" line will always change so let's count that as one removal and
+          # addition which are always there. Test this by sum of removal and addition lines
+          # and then check if the number of lines changed is exactly two, if not push the changes.
+          changed_lines=$(git diff --cached --numstat | awk '{ print $1+$2 }')
+
+          git commit -m "update pot-file"
+          if [ "$changed_lines" -ne 2 ]; then
+              git push
+          fi
