@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-06-15 14:39+0200\n"
+"POT-Creation-Date: 2021-02-22 16:27+0000\n"
 "PO-Revision-Date: 2017-02-08 07:23+0000\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: Polish\n"
@@ -20,32 +20,32 @@ msgstr ""
 "|| n%100>=20) ? 1 : 2)\n"
 "X-Generator: Zanata 4.6.2\n"
 
-#: ../simpleline/render/adv_widgets.py:42
+#: ../simpleline/render/adv_widgets.py:43
 msgid "Error"
 msgstr "Błąd"
 
-#: ../simpleline/render/adv_widgets.py:51
+#: ../simpleline/render/adv_widgets.py:52
 #, python-format
 msgid "Press %s to exit"
 msgstr "Naciśnięcie klawisza %s zakończy"
 
-#: ../simpleline/render/adv_widgets.py:70
+#: ../simpleline/render/adv_widgets.py:71
 msgid "Password"
 msgstr "Hasło"
 
-#: ../simpleline/render/adv_widgets.py:71
+#: ../simpleline/render/adv_widgets.py:72
 msgid "Enter your passphrase"
 msgstr "Proszę podać hasło"
 
-#: ../simpleline/render/adv_widgets.py:84
+#: ../simpleline/render/adv_widgets.py:85
 msgid "Passphrase: "
 msgstr "Hasło: "
 
-#: ../simpleline/render/adv_widgets.py:121
+#: ../simpleline/render/adv_widgets.py:122
 msgid "Question"
 msgstr "Pytanie"
 
-#: ../simpleline/render/adv_widgets.py:131
+#: ../simpleline/render/adv_widgets.py:132
 #, python-format
 msgid "Please respond '%(yes)s' or '%(no)s'"
 msgstr "Proszę odpowiedzieć „%(yes)s” lub „%(no)s”"
@@ -73,18 +73,22 @@ msgstr "Proszę wybrać jedno z powyższych"
 msgid "ENTER"
 msgstr "Enter"
 
-#: ../simpleline/render/prompt.py:39
+#. TRANSLATORS: 'q' to quit
+#: ../simpleline/render/prompt.py:38
 msgid "to quit"
 msgstr "aby zakończyć"
 
-#: ../simpleline/render/prompt.py:43
+#. TRANSLATORS:'c' to continue
+#: ../simpleline/render/prompt.py:42
 msgid "to continue"
 msgstr "aby kontynuować"
 
-#: ../simpleline/render/prompt.py:47
+#. TRANSLATORS:'r' to refresh
+#: ../simpleline/render/prompt.py:46
 msgid "to refresh"
 msgstr "aby odświeżyć"
 
-#: ../simpleline/render/prompt.py:51
+#. TRANSLATORS:'h' to help
+#: ../simpleline/render/prompt.py:50
 msgid "to help"
 msgstr "aby wyświetlić pomoc"

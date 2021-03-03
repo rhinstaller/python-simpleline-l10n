@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-06-15 14:39+0200\n"
+"POT-Creation-Date: 2021-02-22 16:27+0000\n"
 "PO-Revision-Date: 2020-07-21 09:29+0000\n"
 "Last-Translator: Jiří Konečný <jkonecny@redhat.com>\n"
 "Language-Team: Chinese (Simplified) <https://translate.fedoraproject.org/"
@@ -20,32 +20,32 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 4.1.1\n"
 
-#: ../simpleline/render/adv_widgets.py:42
+#: ../simpleline/render/adv_widgets.py:43
 msgid "Error"
 msgstr "错误"
 
-#: ../simpleline/render/adv_widgets.py:51
+#: ../simpleline/render/adv_widgets.py:52
 #, python-format
 msgid "Press %s to exit"
 msgstr "按 %s 退出"
 
-#: ../simpleline/render/adv_widgets.py:70
+#: ../simpleline/render/adv_widgets.py:71
 msgid "Password"
 msgstr "密码"
 
-#: ../simpleline/render/adv_widgets.py:71
+#: ../simpleline/render/adv_widgets.py:72
 msgid "Enter your passphrase"
 msgstr "输入您的密码"
 
-#: ../simpleline/render/adv_widgets.py:84
+#: ../simpleline/render/adv_widgets.py:85
 msgid "Passphrase: "
 msgstr "口令： "
 
-#: ../simpleline/render/adv_widgets.py:121
+#: ../simpleline/render/adv_widgets.py:122
 msgid "Question"
 msgstr "问题"
 
-#: ../simpleline/render/adv_widgets.py:131
+#: ../simpleline/render/adv_widgets.py:132
 #, python-format
 msgid "Please respond '%(yes)s' or '%(no)s'"
 msgstr "请回答 '%(yes)s' 或 '%(no)s'"
@@ -73,18 +73,22 @@ msgstr "请从上方进行选择"
 msgid "ENTER"
 msgstr "ENTER"
 
-#: ../simpleline/render/prompt.py:39
+#. TRANSLATORS: 'q' to quit
+#: ../simpleline/render/prompt.py:38
 msgid "to quit"
 msgstr "退出"
 
-#: ../simpleline/render/prompt.py:43
+#. TRANSLATORS:'c' to continue
+#: ../simpleline/render/prompt.py:42
 msgid "to continue"
 msgstr "继续"
 
-#: ../simpleline/render/prompt.py:47
+#. TRANSLATORS:'r' to refresh
+#: ../simpleline/render/prompt.py:46
 msgid "to refresh"
 msgstr "刷新"
 
-#: ../simpleline/render/prompt.py:51
+#. TRANSLATORS:'h' to help
+#: ../simpleline/render/prompt.py:50
 msgid "to help"
 msgstr "帮助"

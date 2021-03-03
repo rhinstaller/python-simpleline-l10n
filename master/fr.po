@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-06-15 14:39+0200\n"
+"POT-Creation-Date: 2021-02-22 16:27+0000\n"
 "PO-Revision-Date: 2020-06-22 06:40+0000\n"
 "Last-Translator: Julien Humbert <julroy67@gmail.com>\n"
 "Language-Team: French <https://translate.fedoraproject.org/projects/python-"
@@ -19,32 +19,32 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 4.1.1\n"
 
-#: ../simpleline/render/adv_widgets.py:42
+#: ../simpleline/render/adv_widgets.py:43
 msgid "Error"
 msgstr "Erreur"
 
-#: ../simpleline/render/adv_widgets.py:51
+#: ../simpleline/render/adv_widgets.py:52
 #, python-format
 msgid "Press %s to exit"
 msgstr "Appuyez sur %s pour poursuivre"
 
-#: ../simpleline/render/adv_widgets.py:70
+#: ../simpleline/render/adv_widgets.py:71
 msgid "Password"
 msgstr "Mot de passe"
 
-#: ../simpleline/render/adv_widgets.py:71
+#: ../simpleline/render/adv_widgets.py:72
 msgid "Enter your passphrase"
 msgstr "Saisissez votre phrase de passe"
 
-#: ../simpleline/render/adv_widgets.py:84
+#: ../simpleline/render/adv_widgets.py:85
 msgid "Passphrase: "
 msgstr "Phrase de passe : "
 
-#: ../simpleline/render/adv_widgets.py:121
+#: ../simpleline/render/adv_widgets.py:122
 msgid "Question"
 msgstr "Question"
 
-#: ../simpleline/render/adv_widgets.py:131
+#: ../simpleline/render/adv_widgets.py:132
 #, python-format
 msgid "Please respond '%(yes)s' or '%(no)s'"
 msgstr "Veuillez répondre par « %(yes)s » ou par « %(no)s »"
@@ -72,18 +72,22 @@ msgstr "Faites votre choix parmi ce qui précède"
 msgid "ENTER"
 msgstr "Entrée"
 
-#: ../simpleline/render/prompt.py:39
+#. TRANSLATORS: 'q' to quit
+#: ../simpleline/render/prompt.py:38
 msgid "to quit"
 msgstr "pour quitter"
 
-#: ../simpleline/render/prompt.py:43
+#. TRANSLATORS:'c' to continue
+#: ../simpleline/render/prompt.py:42
 msgid "to continue"
 msgstr "pour continuer"
 
-#: ../simpleline/render/prompt.py:47
+#. TRANSLATORS:'r' to refresh
+#: ../simpleline/render/prompt.py:46
 msgid "to refresh"
 msgstr "pour rafraîchir"
 
-#: ../simpleline/render/prompt.py:51
+#. TRANSLATORS:'h' to help
+#: ../simpleline/render/prompt.py:50
 msgid "to help"
 msgstr "pour l’aide (help)"

@@ -6,11 +6,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-06-15 14:39+0200\n"
+"POT-Creation-Date: 2021-02-22 16:27+0000\n"
 "PO-Revision-Date: 2020-12-25 19:36+0000\n"
 "Last-Translator: Vlad <milovlad@outlook.com>\n"
-"Language-Team: Romanian <https://translate.fedoraproject.org/projects/"
-"python-simpleline/master/ro/>\n"
+"Language-Team: Romanian <https://translate.fedoraproject.org/projects/python-"
+"simpleline/master/ro/>\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,32 +19,32 @@ msgstr ""
 "20)) ? 1 : 2;\n"
 "X-Generator: Weblate 4.3.2\n"
 
-#: ../simpleline/render/adv_widgets.py:42
+#: ../simpleline/render/adv_widgets.py:43
 msgid "Error"
 msgstr "Eroare"
 
-#: ../simpleline/render/adv_widgets.py:51
+#: ../simpleline/render/adv_widgets.py:52
 #, python-format
 msgid "Press %s to exit"
 msgstr "Apasă %s pentru ieșire"
 
-#: ../simpleline/render/adv_widgets.py:70
+#: ../simpleline/render/adv_widgets.py:71
 msgid "Password"
 msgstr "Parolă"
 
-#: ../simpleline/render/adv_widgets.py:71
+#: ../simpleline/render/adv_widgets.py:72
 msgid "Enter your passphrase"
 msgstr "Introduceți fraza secretă"
 
-#: ../simpleline/render/adv_widgets.py:84
+#: ../simpleline/render/adv_widgets.py:85
 msgid "Passphrase: "
 msgstr "Fraza secretă: "
 
-#: ../simpleline/render/adv_widgets.py:121
+#: ../simpleline/render/adv_widgets.py:122
 msgid "Question"
 msgstr "Întrebare"
 
-#: ../simpleline/render/adv_widgets.py:131
+#: ../simpleline/render/adv_widgets.py:132
 #, python-format
 msgid "Please respond '%(yes)s' or '%(no)s'"
 msgstr "Te rog să răspunzi cu '%(yes)s' sau '%(no)s'"
@@ -72,18 +72,22 @@ msgstr "Te rog să faci o selecție din cele prezentate mai sus"
 msgid "ENTER"
 msgstr "ENTER"
 
-#: ../simpleline/render/prompt.py:39
+#. TRANSLATORS: 'q' to quit
+#: ../simpleline/render/prompt.py:38
 msgid "to quit"
 msgstr "pentru părăsire"
 
-#: ../simpleline/render/prompt.py:43
+#. TRANSLATORS:'c' to continue
+#: ../simpleline/render/prompt.py:42
 msgid "to continue"
 msgstr "pentru continuare"
 
-#: ../simpleline/render/prompt.py:47
+#. TRANSLATORS:'r' to refresh
+#: ../simpleline/render/prompt.py:46
 msgid "to refresh"
 msgstr "pentru reîmprospătare"
 
-#: ../simpleline/render/prompt.py:51
+#. TRANSLATORS:'h' to help
+#: ../simpleline/render/prompt.py:50
 msgid "to help"
 msgstr "pentru ajutor"

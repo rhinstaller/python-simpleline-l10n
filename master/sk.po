@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-06-15 14:39+0200\n"
+"POT-Creation-Date: 2021-02-22 16:27+0000\n"
 "PO-Revision-Date: 2017-09-20 05:42+0000\n"
 "Last-Translator: feonsu <feonsu@gmail.com>\n"
 "Language-Team: Slovak\n"
@@ -19,32 +19,32 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
 "X-Generator: Zanata 4.6.2\n"
 
-#: ../simpleline/render/adv_widgets.py:42
+#: ../simpleline/render/adv_widgets.py:43
 msgid "Error"
 msgstr "Chyba"
 
-#: ../simpleline/render/adv_widgets.py:51
+#: ../simpleline/render/adv_widgets.py:52
 #, python-format
 msgid "Press %s to exit"
 msgstr "Stlačte %s na ukončenie"
 
-#: ../simpleline/render/adv_widgets.py:70
+#: ../simpleline/render/adv_widgets.py:71
 msgid "Password"
 msgstr "Heslo"
 
-#: ../simpleline/render/adv_widgets.py:71
+#: ../simpleline/render/adv_widgets.py:72
 msgid "Enter your passphrase"
 msgstr "Zadajte heslo"
 
-#: ../simpleline/render/adv_widgets.py:84
+#: ../simpleline/render/adv_widgets.py:85
 msgid "Passphrase: "
 msgstr "Heslo:"
 
-#: ../simpleline/render/adv_widgets.py:121
+#: ../simpleline/render/adv_widgets.py:122
 msgid "Question"
 msgstr "Otázka"
 
-#: ../simpleline/render/adv_widgets.py:131
+#: ../simpleline/render/adv_widgets.py:132
 #, python-format
 msgid "Please respond '%(yes)s' or '%(no)s'"
 msgstr "Prosím odpovedzte '%(yes)s' alebo '%(no)s'"
@@ -72,18 +72,22 @@ msgstr "Prosím vyberte z vyššie uvedených možností"
 msgid "ENTER"
 msgstr "ENTER"
 
-#: ../simpleline/render/prompt.py:39
+#. TRANSLATORS: 'q' to quit
+#: ../simpleline/render/prompt.py:38
 msgid "to quit"
 msgstr "na ukončenie"
 
-#: ../simpleline/render/prompt.py:43
+#. TRANSLATORS:'c' to continue
+#: ../simpleline/render/prompt.py:42
 msgid "to continue"
 msgstr "na pokračovanie"
 
-#: ../simpleline/render/prompt.py:47
+#. TRANSLATORS:'r' to refresh
+#: ../simpleline/render/prompt.py:46
 msgid "to refresh"
 msgstr "na obnovenie"
 
-#: ../simpleline/render/prompt.py:51
+#. TRANSLATORS:'h' to help
+#: ../simpleline/render/prompt.py:50
 msgid "to help"
 msgstr "pomocník"
