@@ -13,12 +13,14 @@ jobs:
       max-parallel: 1
       # update this matrix to support new Anaconda branches
       matrix:
-        branch: [ master, rhel-8 ]
+        branch: [ master, rhel-8, rhel-9 ]
         include:
           - branch: master
             upstream: master
           - branch: rhel-8
             upstream: 1.1
+          - branch: rhel-9
+            upstream: 1.8
 
     runs-on: ubuntu-latest
     steps:
