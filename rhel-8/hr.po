@@ -7,79 +7,83 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-30 16:27+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2021-10-30 15:05+0000\n"
+"Last-Translator: Gogo Gogsi <linux.hr@protonmail.com>\n"
+"Language-Team: Croatian <https://translate.fedoraproject.org/projects/"
+"python-simpleline/rhel-8/hr/>\n"
 "Language: hr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.8\n"
 
 #: ../simpleline/render/adv_widgets.py:41
 msgid "Error"
-msgstr ""
+msgstr "Greška"
 
 #: ../simpleline/render/adv_widgets.py:50
 #, python-format
 msgid "Press %s to exit"
-msgstr ""
+msgstr "Pritisnite %s za izlaz"
 
 #: ../simpleline/render/adv_widgets.py:69
 msgid "Password"
-msgstr ""
+msgstr "Lozinka"
 
 #: ../simpleline/render/adv_widgets.py:70
 msgid "Enter your passphrase"
-msgstr ""
+msgstr "Upišite svoju lozinku"
 
 #: ../simpleline/render/adv_widgets.py:83
 msgid "Passphrase: "
-msgstr ""
+msgstr "Lozinka: "
 
 #: ../simpleline/render/adv_widgets.py:121
 msgid "Question"
-msgstr ""
+msgstr "Pitanje"
 
 #: ../simpleline/render/adv_widgets.py:131
 #, python-format
 msgid "Please respond '%(yes)s' or '%(no)s'"
-msgstr ""
+msgstr "Odgovorite, '%(yes)s' ili '%(no)s'"
 
 #: ../simpleline/render/adv_widgets.py:167
 msgid "Help"
-msgstr ""
+msgstr "Pomoć"
 
 #: ../simpleline/render/adv_widgets.py:173
 msgid "The help is not available."
-msgstr ""
+msgstr "Pomoć nije dostupna."
 
 #: ../simpleline/render/adv_widgets.py:186
 #, python-format
 msgid "Press %s to return"
-msgstr ""
+msgstr "Pritisnite %s za povratak"
 
 #. Default message of the prompt
 #: ../simpleline/render/prompt.py:31
 msgid "Please make a selection from the above"
-msgstr ""
+msgstr "Odaberite s popisa iznad"
 
 #. String to use in a prompt when we want users to press the key ENTER.
 #: ../simpleline/render/prompt.py:34
 msgid "ENTER"
-msgstr ""
+msgstr "ENTER"
 
 #: ../simpleline/render/prompt.py:38
 msgid "to quit"
-msgstr ""
+msgstr "za izlaz"
 
 #: ../simpleline/render/prompt.py:42
 msgid "to continue"
-msgstr ""
+msgstr "za nastavak"
 
 #: ../simpleline/render/prompt.py:46
 msgid "to refresh"
-msgstr ""
+msgstr "za osvježavanje"
 
 #: ../simpleline/render/prompt.py:50
 msgid "to help"
-msgstr ""
+msgstr "za pomoć"
