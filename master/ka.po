@@ -7,83 +7,86 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-22 16:27+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2022-09-10 11:19+0000\n"
+"Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
+"Language-Team: Georgian <https://translate.fedoraproject.org/projects/"
+"python-simpleline/master/ka/>\n"
 "Language: ka\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.14\n"
 
 #: ../simpleline/render/adv_widgets.py:43
 msgid "Error"
-msgstr ""
+msgstr "შეცდომა"
 
 #: ../simpleline/render/adv_widgets.py:52
 #, python-format
 msgid "Press %s to exit"
-msgstr ""
+msgstr "გასასვლელად დააწექით: %s"
 
 #: ../simpleline/render/adv_widgets.py:71
 msgid "Password"
-msgstr ""
+msgstr "პაროლი"
 
 #: ../simpleline/render/adv_widgets.py:72
 msgid "Enter your passphrase"
-msgstr ""
+msgstr "შეიყვანეთ თქვენი საიდუმლო ფრაზა"
 
 #: ../simpleline/render/adv_widgets.py:85
 msgid "Passphrase: "
-msgstr ""
+msgstr "საიდუმლო ფრაზა: "
 
 #: ../simpleline/render/adv_widgets.py:122
 msgid "Question"
-msgstr ""
+msgstr "კითხვა"
 
 #: ../simpleline/render/adv_widgets.py:132
 #, python-format
 msgid "Please respond '%(yes)s' or '%(no)s'"
-msgstr ""
+msgstr "უპასუხეთ '%(yes)s' ან '%(no)s'"
 
 #: ../simpleline/render/adv_widgets.py:167
 msgid "Help"
-msgstr ""
+msgstr "დახმარება"
 
 #: ../simpleline/render/adv_widgets.py:173
 msgid "The help is not available."
-msgstr ""
+msgstr "დახმარება მიუწვდომელია."
 
 #: ../simpleline/render/adv_widgets.py:186
 #, python-format
 msgid "Press %s to return"
-msgstr ""
+msgstr "დასაბრუნებლად დააწექით: %s"
 
 #. Default message of the prompt
 #: ../simpleline/render/prompt.py:32
 msgid "Please make a selection from the above"
-msgstr ""
+msgstr "აირჩიეთ ზემოდან"
 
 #. String to use in a prompt when we want users to press the key ENTER.
 #: ../simpleline/render/prompt.py:35
 msgid "ENTER"
-msgstr ""
+msgstr "ENTER"
 
 #. TRANSLATORS: 'q' to quit
 #: ../simpleline/render/prompt.py:38
 msgid "to quit"
-msgstr ""
+msgstr "გასასვლელად"
 
 #. TRANSLATORS:'c' to continue
 #: ../simpleline/render/prompt.py:42
 msgid "to continue"
-msgstr ""
+msgstr "გასაგრძელებლად"
 
 #. TRANSLATORS:'r' to refresh
 #: ../simpleline/render/prompt.py:46
 msgid "to refresh"
-msgstr ""
+msgstr "განახლებისთვის"
 
 #. TRANSLATORS:'h' to help
 #: ../simpleline/render/prompt.py:50
 msgid "to help"
-msgstr ""
+msgstr "დახმარებისთვის"
