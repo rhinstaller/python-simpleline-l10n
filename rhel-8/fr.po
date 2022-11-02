@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-07-30 16:27+0200\n"
+"POT-Creation-Date: 2022-09-22 11:16+0200\n"
 "PO-Revision-Date: 2020-07-02 02:40+0000\n"
 "Last-Translator: Julien Humbert <julroy67@gmail.com>\n"
 "Language-Team: French <https://translate.fedoraproject.org/projects/python-"
@@ -40,24 +40,24 @@ msgstr "Saisissez votre phrase de passe"
 msgid "Passphrase: "
 msgstr "Phrase de passe : "
 
-#: ../simpleline/render/adv_widgets.py:121
+#: ../simpleline/render/adv_widgets.py:120
 msgid "Question"
 msgstr "Question"
 
-#: ../simpleline/render/adv_widgets.py:131
+#: ../simpleline/render/adv_widgets.py:130
 #, python-format
 msgid "Please respond '%(yes)s' or '%(no)s'"
 msgstr "Veuillez répondre par « %(yes)s » ou par « %(no)s »"
 
-#: ../simpleline/render/adv_widgets.py:167
+#: ../simpleline/render/adv_widgets.py:166
 msgid "Help"
 msgstr "Aide"
 
-#: ../simpleline/render/adv_widgets.py:173
+#: ../simpleline/render/adv_widgets.py:172
 msgid "The help is not available."
 msgstr "L’aide n’est pas disponible."
 
-#: ../simpleline/render/adv_widgets.py:186
+#: ../simpleline/render/adv_widgets.py:185
 #, python-format
 msgid "Press %s to return"
 msgstr "Appuyez sur « %s » pour revenir"

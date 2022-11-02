@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-07-30 16:27+0200\n"
+"POT-Creation-Date: 2022-09-22 11:16+0200\n"
 "PO-Revision-Date: 2020-07-21 09:29+0000\n"
 "Last-Translator: Jiří Konečný <jkonecny@redhat.com>\n"
 "Language-Team: Ukrainian <https://translate.fedoraproject.org/projects/"
@@ -42,24 +42,24 @@ msgstr "Вкажіть ваш пароль"
 msgid "Passphrase: "
 msgstr "Пароль: "
 
-#: ../simpleline/render/adv_widgets.py:121
+#: ../simpleline/render/adv_widgets.py:120
 msgid "Question"
 msgstr "Питання"
 
-#: ../simpleline/render/adv_widgets.py:131
+#: ../simpleline/render/adv_widgets.py:130
 #, python-format
 msgid "Please respond '%(yes)s' or '%(no)s'"
 msgstr "Будь ласка, дайте відповідь, «%(yes)s» (так) чи «%(no)s» (ні)"
 
-#: ../simpleline/render/adv_widgets.py:167
+#: ../simpleline/render/adv_widgets.py:166
 msgid "Help"
 msgstr "Довідка"
 
-#: ../simpleline/render/adv_widgets.py:173
+#: ../simpleline/render/adv_widgets.py:172
 msgid "The help is not available."
 msgstr "Довідкові матеріали недоступні."
 
-#: ../simpleline/render/adv_widgets.py:186
+#: ../simpleline/render/adv_widgets.py:185
 #, python-format
 msgid "Press %s to return"
 msgstr "Натисніть %s, щоб повернутися"

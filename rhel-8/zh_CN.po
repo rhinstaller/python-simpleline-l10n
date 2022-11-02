@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-07-30 16:27+0200\n"
+"POT-Creation-Date: 2022-09-22 11:16+0200\n"
 "PO-Revision-Date: 2020-07-21 09:29+0000\n"
 "Last-Translator: Ludek Janda <ljanda@redhat.com>\n"
 "Language-Team: Chinese (Simplified) <https://translate.fedoraproject.org/"
@@ -41,24 +41,24 @@ msgstr "输入您的密码"
 msgid "Passphrase: "
 msgstr "口令： "
 
-#: ../simpleline/render/adv_widgets.py:121
+#: ../simpleline/render/adv_widgets.py:120
 msgid "Question"
 msgstr "问题"
 
-#: ../simpleline/render/adv_widgets.py:131
+#: ../simpleline/render/adv_widgets.py:130
 #, python-format
 msgid "Please respond '%(yes)s' or '%(no)s'"
 msgstr "请回答 '%(yes)s' 或 '%(no)s'"
 
-#: ../simpleline/render/adv_widgets.py:167
+#: ../simpleline/render/adv_widgets.py:166
 msgid "Help"
 msgstr "帮助"
 
-#: ../simpleline/render/adv_widgets.py:173
+#: ../simpleline/render/adv_widgets.py:172
 msgid "The help is not available."
 msgstr "帮助不可用。"
 
-#: ../simpleline/render/adv_widgets.py:186
+#: ../simpleline/render/adv_widgets.py:185
 #, python-format
 msgid "Press %s to return"
 msgstr "按 %s 返回"

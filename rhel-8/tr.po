@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-07-30 16:27+0200\n"
+"POT-Creation-Date: 2022-09-22 11:16+0200\n"
 "PO-Revision-Date: 2020-06-16 17:40+0000\n"
 "Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
 "Language-Team: Turkish <https://translate.fedoraproject.org/projects/python-"
@@ -39,24 +39,24 @@ msgstr "Parolanızı girin"
 msgid "Passphrase: "
 msgstr "Parola: "
 
-#: ../simpleline/render/adv_widgets.py:121
+#: ../simpleline/render/adv_widgets.py:120
 msgid "Question"
 msgstr "Soru"
 
-#: ../simpleline/render/adv_widgets.py:131
+#: ../simpleline/render/adv_widgets.py:130
 #, python-format
 msgid "Please respond '%(yes)s' or '%(no)s'"
 msgstr "Lütfen '%(yes)s' veya '%(no)s' olarak cevap verin"
 
-#: ../simpleline/render/adv_widgets.py:167
+#: ../simpleline/render/adv_widgets.py:166
 msgid "Help"
 msgstr "Yardım"
 
-#: ../simpleline/render/adv_widgets.py:173
+#: ../simpleline/render/adv_widgets.py:172
 msgid "The help is not available."
 msgstr "Yardım kullanılamıyor."
 
-#: ../simpleline/render/adv_widgets.py:186
+#: ../simpleline/render/adv_widgets.py:185
 #, python-format
 msgid "Press %s to return"
 msgstr "Geri dönmek için %s tuşuna basın"

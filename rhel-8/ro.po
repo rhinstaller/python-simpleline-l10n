@@ -6,11 +6,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-07-30 16:27+0200\n"
+"POT-Creation-Date: 2022-09-22 11:16+0200\n"
 "PO-Revision-Date: 2020-12-25 19:36+0000\n"
 "Last-Translator: Vlad <milovlad@outlook.com>\n"
-"Language-Team: Romanian <https://translate.fedoraproject.org/projects/"
-"python-simpleline/rhel-8/ro/>\n"
+"Language-Team: Romanian <https://translate.fedoraproject.org/projects/python-"
+"simpleline/rhel-8/ro/>\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -40,24 +40,24 @@ msgstr "Introduceți fraza secretă"
 msgid "Passphrase: "
 msgstr "Fraza secretă: "
 
-#: ../simpleline/render/adv_widgets.py:121
+#: ../simpleline/render/adv_widgets.py:120
 msgid "Question"
 msgstr "Întrebare"
 
-#: ../simpleline/render/adv_widgets.py:131
+#: ../simpleline/render/adv_widgets.py:130
 #, python-format
 msgid "Please respond '%(yes)s' or '%(no)s'"
 msgstr "Te rog să răspunzi cu '%(yes)s' sau '%(no)s'"
 
-#: ../simpleline/render/adv_widgets.py:167
+#: ../simpleline/render/adv_widgets.py:166
 msgid "Help"
 msgstr "Ajutor"
 
-#: ../simpleline/render/adv_widgets.py:173
+#: ../simpleline/render/adv_widgets.py:172
 msgid "The help is not available."
 msgstr "Pagina de ajutor nu este disponibilă."
 
-#: ../simpleline/render/adv_widgets.py:186
+#: ../simpleline/render/adv_widgets.py:185
 #, python-format
 msgid "Press %s to return"
 msgstr "Apasă %s pentru întoarcere"
