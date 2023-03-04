@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-22 16:27+0000\n"
+"Report-Msgid-Bugs-To: anaconda-devel@lists.fedoraproject.org\n"
+"POT-Creation-Date: 2023-03-04 01:40+0000\n"
 "PO-Revision-Date: 2020-09-03 13:29+0000\n"
 "Last-Translator: Göran Uddeborg <goeran@uddeborg.se>\n"
 "Language-Team: Swedish <https://translate.fedoraproject.org/projects/python-"
@@ -20,75 +20,75 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.2.2\n"
 
-#: ../simpleline/render/adv_widgets.py:43
-msgid "Error"
-msgstr "Fel"
-
-#: ../simpleline/render/adv_widgets.py:52
-#, python-format
-msgid "Press %s to exit"
-msgstr "Tryck %s för att avsluta"
-
-#: ../simpleline/render/adv_widgets.py:71
-msgid "Password"
-msgstr "Lösenord"
+#. String to use in a prompt when we want users to press the key ENTER.
+#: ../simpleline/render/prompt.py:35
+msgid "ENTER"
+msgstr "RETUR"
 
 #: ../simpleline/render/adv_widgets.py:72
 msgid "Enter your passphrase"
 msgstr "Ange din lösenfras"
 
-#: ../simpleline/render/adv_widgets.py:85
-msgid "Passphrase: "
-msgstr "Lösenfras: "
-
-#: ../simpleline/render/adv_widgets.py:122
-msgid "Question"
-msgstr "Fråga"
-
-#: ../simpleline/render/adv_widgets.py:132
-#, python-format
-msgid "Please respond '%(yes)s' or '%(no)s'"
-msgstr "Svara ”%(yes)s” eller ”%(no)s”"
+#: ../simpleline/render/adv_widgets.py:43
+msgid "Error"
+msgstr "Fel"
 
 #: ../simpleline/render/adv_widgets.py:167
 msgid "Help"
 msgstr "Hjälp"
 
-#: ../simpleline/render/adv_widgets.py:173
-msgid "The help is not available."
-msgstr "Hjälpen är inte tillgänglig."
+#: ../simpleline/render/adv_widgets.py:85
+msgid "Passphrase: "
+msgstr "Lösenfras: "
 
-#: ../simpleline/render/adv_widgets.py:186
-#, python-format
-msgid "Press %s to return"
-msgstr "Tryck %s för att återgå"
+#: ../simpleline/render/adv_widgets.py:71
+msgid "Password"
+msgstr "Lösenord"
 
 #. Default message of the prompt
 #: ../simpleline/render/prompt.py:32
 msgid "Please make a selection from the above"
 msgstr "Gör ett val från ovanstående"
 
-#. String to use in a prompt when we want users to press the key ENTER.
-#: ../simpleline/render/prompt.py:35
-msgid "ENTER"
-msgstr "RETUR"
+#: ../simpleline/render/adv_widgets.py:132
+#, python-format
+msgid "Please respond '%(yes)s' or '%(no)s'"
+msgstr "Svara ”%(yes)s” eller ”%(no)s”"
 
-#. TRANSLATORS: 'q' to quit
-#: ../simpleline/render/prompt.py:38
-msgid "to quit"
-msgstr "för att avsluta"
+#: ../simpleline/render/adv_widgets.py:52
+#, python-format
+msgid "Press %s to exit"
+msgstr "Tryck %s för att avsluta"
+
+#: ../simpleline/render/adv_widgets.py:186
+#, python-format
+msgid "Press %s to return"
+msgstr "Tryck %s för att återgå"
+
+#: ../simpleline/render/adv_widgets.py:122
+msgid "Question"
+msgstr "Fråga"
+
+#: ../simpleline/render/adv_widgets.py:173
+msgid "The help is not available."
+msgstr "Hjälpen är inte tillgänglig."
 
 #. TRANSLATORS:'c' to continue
 #: ../simpleline/render/prompt.py:42
 msgid "to continue"
 msgstr "för att fortsätta"
 
-#. TRANSLATORS:'r' to refresh
-#: ../simpleline/render/prompt.py:46
-msgid "to refresh"
-msgstr "för att uppdatera"
-
 #. TRANSLATORS:'h' to help
 #: ../simpleline/render/prompt.py:50
 msgid "to help"
 msgstr "för hjälp"
+
+#. TRANSLATORS: 'q' to quit
+#: ../simpleline/render/prompt.py:38
+msgid "to quit"
+msgstr "för att avsluta"
+
+#. TRANSLATORS:'r' to refresh
+#: ../simpleline/render/prompt.py:46
+msgid "to refresh"
+msgstr "för att uppdatera"
