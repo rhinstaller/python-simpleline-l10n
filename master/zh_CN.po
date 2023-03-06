@@ -4,13 +4,14 @@
 # Jiri Konecny <jkonecny@redhat.com>, 2016. #zanata
 # Jiri Konecny <jkonecny@redhat.com>, 2019. #zanata
 # Jiří Konečný <jkonecny@redhat.com>, 2020.
+# yangyangdaji <1504305527@qq.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: anaconda-devel@lists.fedoraproject.org\n"
 "POT-Creation-Date: 2023-03-04 01:40+0000\n"
-"PO-Revision-Date: 2020-07-21 09:29+0000\n"
-"Last-Translator: Jiří Konečný <jkonecny@redhat.com>\n"
+"PO-Revision-Date: 2023-03-07 13:20+0000\n"
+"Last-Translator: yangyangdaji <1504305527@qq.com>\n"
 "Language-Team: Chinese (Simplified) <https://translate.fedoraproject.org/"
 "projects/python-simpleline/master/zh_CN/>\n"
 "Language: zh_CN\n"
@@ -18,12 +19,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Weblate 4.15.2\n"
 
 #. String to use in a prompt when we want users to press the key ENTER.
 #: ../simpleline/render/prompt.py:35
 msgid "ENTER"
-msgstr "ENTER"
+msgstr "回车"
 
 #: ../simpleline/render/adv_widgets.py:72
 msgid "Enter your passphrase"
@@ -39,7 +40,7 @@ msgstr "帮助"
 
 #: ../simpleline/render/adv_widgets.py:85
 msgid "Passphrase: "
-msgstr "口令： "
+msgstr "密码： "
 
 #: ../simpleline/render/adv_widgets.py:71
 msgid "Password"
