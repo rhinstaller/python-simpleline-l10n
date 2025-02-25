@@ -9,8 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-22 11:16+0200\n"
 "PO-Revision-Date: 2025-02-25 12:04+0000\n"
-"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
-"memory@weblate.org>\n"
+"Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
 "Language-Team: Georgian <https://translate.fedoraproject.org/projects/"
 "python-simpleline/rhel-8/ka/>\n"
 "Language: ka\n"
@@ -71,7 +70,7 @@ msgstr "აირჩიეთ ზემოდან"
 #. String to use in a prompt when we want users to press the key ENTER.
 #: ../simpleline/render/prompt.py:34
 msgid "ENTER"
-msgstr ""
+msgstr "ENTER"
 
 #: ../simpleline/render/prompt.py:38
 msgid "to quit"
