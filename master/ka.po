@@ -1,22 +1,22 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# Temuri Doghonadze <temuri.doghonadze@gmail.com>, 2022.
+# Temuri Doghonadze <temuri.doghonadze@gmail.com>, 2022, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: anaconda-devel@lists.fedoraproject.org\n"
 "POT-Creation-Date: 2023-03-04 01:40+0000\n"
-"PO-Revision-Date: 2022-09-10 11:19+0000\n"
+"PO-Revision-Date: 2025-02-25 12:04+0000\n"
 "Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
-"Language-Team: Georgian <https://translate.fedoraproject.org/projects/python-"
-"simpleline/master/ka/>\n"
+"Language-Team: Georgian <https://translate.fedoraproject.org/projects/"
+"python-simpleline/master/ka/>\n"
 "Language: ka\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14\n"
+"X-Generator: Weblate 5.10\n"
 
 #. String to use in a prompt when we want users to press the key ENTER.
 #: ../simpleline/render/prompt.py:35
@@ -37,7 +37,7 @@ msgstr "დახმარება"
 
 #: ../simpleline/render/adv_widgets.py:85
 msgid "Passphrase: "
-msgstr "საიდუმლო ფრაზა: "
+msgstr "საკვანძო ფრაზა: "
 
 #: ../simpleline/render/adv_widgets.py:71
 msgid "Password"
