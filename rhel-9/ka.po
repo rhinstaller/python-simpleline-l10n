@@ -1,13 +1,13 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# Temuri Doghonadze <temuri.doghonadze@gmail.com>, 2022.
+# Temuri Doghonadze <temuri.doghonadze@gmail.com>, 2022, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-22 16:27+0000\n"
-"PO-Revision-Date: 2022-09-10 11:19+0000\n"
+"PO-Revision-Date: 2025-02-25 12:04+0000\n"
 "Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
 "Language-Team: Georgian <https://translate.fedoraproject.org/projects/"
 "python-simpleline/rhel-9/ka/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14\n"
+"X-Generator: Weblate 5.10\n"
 
 #: ../simpleline/render/adv_widgets.py:43
 msgid "Error"
@@ -37,7 +37,7 @@ msgstr "შეიყვანეთ თქვენი საიდუმლო 
 
 #: ../simpleline/render/adv_widgets.py:85
 msgid "Passphrase: "
-msgstr "საიდუმლო ფრაზა: "
+msgstr "საკვანძო ფრაზა: "
 
 #: ../simpleline/render/adv_widgets.py:122
 msgid "Question"
