@@ -1,95 +1,96 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # Jiri Konecny <jkonecny@redhat.com>, 2016. #zanata
 # Carlos Munoz <camunoz@redhat.com>, 2019. #zanata
 # Jiri Konecny <jkonecny@redhat.com>, 2019. #zanata
+# Marija Grineviciute <marijagrine@protonmail.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: anaconda-devel@lists.fedoraproject.org\n"
 "POT-Creation-Date: 2023-03-04 01:40+0000\n"
-"PO-Revision-Date: 2019-09-20 05:07+0000\n"
-"Last-Translator: Carlos Munoz <camunoz@redhat.com>\n"
-"Language-Team: Lithuanian\n"
+"PO-Revision-Date: 2026-02-13 09:58+0000\n"
+"Last-Translator: Marija Grineviciute <marijagrine@protonmail.com>\n"
+"Language-Team: Lithuanian <https://translate.fedoraproject.org/projects/"
+"python-simpleline/master/lt/>\n"
 "Language: lt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
-"%100<10 || n%100>=20) ? 1 : 2)\n"
-"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"(n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Weblate 5.15.2\n"
 
 #. String to use in a prompt when we want users to press the key ENTER.
 #: ../simpleline/render/prompt.py:35
 msgid "ENTER"
-msgstr ""
+msgstr "ĮVESTI"
 
 #: ../simpleline/render/adv_widgets.py:72
 msgid "Enter your passphrase"
-msgstr ""
+msgstr "Įveskite slaptafrazę"
 
 #: ../simpleline/render/adv_widgets.py:43
 msgid "Error"
-msgstr "Error"
+msgstr "Klaida"
 
 #: ../simpleline/render/adv_widgets.py:167
 msgid "Help"
-msgstr ""
+msgstr "Pagalba"
 
 #: ../simpleline/render/adv_widgets.py:85
 msgid "Passphrase: "
-msgstr ""
+msgstr "Slaptafrazė: "
 
 #: ../simpleline/render/adv_widgets.py:71
 msgid "Password"
-msgstr ""
+msgstr "Slaptažodis"
 
 #. Default message of the prompt
 #: ../simpleline/render/prompt.py:32
 msgid "Please make a selection from the above"
-msgstr ""
+msgstr "Atrinkite iš aukščiau pateiktų"
 
 #: ../simpleline/render/adv_widgets.py:132
 #, python-format
 msgid "Please respond '%(yes)s' or '%(no)s'"
-msgstr ""
+msgstr "Atsakykite „%(yes)s“ arba „%(no)s“"
 
 #: ../simpleline/render/adv_widgets.py:52
 #, python-format
 msgid "Press %s to exit"
-msgstr ""
+msgstr "Spauskite %s, kad išeitumėte"
 
 #: ../simpleline/render/adv_widgets.py:186
 #, python-format
 msgid "Press %s to return"
-msgstr ""
+msgstr "Spauskite %s, kad grįžtumėte"
 
 #: ../simpleline/render/adv_widgets.py:122
 msgid "Question"
-msgstr ""
+msgstr "Klausimas"
 
 #: ../simpleline/render/adv_widgets.py:173
 msgid "The help is not available."
-msgstr ""
+msgstr "Pagalba nėra pasiekiama."
 
 #. TRANSLATORS:'c' to continue
 #: ../simpleline/render/prompt.py:42
 msgid "to continue"
-msgstr ""
+msgstr "tęsti"
 
 #. TRANSLATORS:'h' to help
 #: ../simpleline/render/prompt.py:50
 msgid "to help"
-msgstr ""
+msgstr "pagalba"
 
 #. TRANSLATORS: 'q' to quit
 #: ../simpleline/render/prompt.py:38
 msgid "to quit"
-msgstr ""
+msgstr "išeiti"
 
 #. TRANSLATORS:'r' to refresh
 #: ../simpleline/render/prompt.py:46
 msgid "to refresh"
-msgstr ""
+msgstr "įkelti iš naujo"
