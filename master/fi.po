@@ -2,13 +2,14 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # Jan Kuparinen <copper_fin@hotmail.com>, 2021.
+# Ricky Tigg <ricky.tigg@gmail.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: anaconda-devel@lists.fedoraproject.org\n"
 "POT-Creation-Date: 2023-03-04 01:40+0000\n"
-"PO-Revision-Date: 2021-04-26 17:02+0000\n"
-"Last-Translator: Jan Kuparinen <copper_fin@hotmail.com>\n"
+"PO-Revision-Date: 2026-04-16 07:58+0000\n"
+"Last-Translator: Ricky Tigg <ricky.tigg@gmail.com>\n"
 "Language-Team: Finnish <https://translate.fedoraproject.org/projects/python-"
 "simpleline/master/fi/>\n"
 "Language: fi\n"
@@ -16,16 +17,16 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.6\n"
+"X-Generator: Weblate 5.17\n"
 
 #. String to use in a prompt when we want users to press the key ENTER.
 #: ../simpleline/render/prompt.py:35
 msgid "ENTER"
-msgstr "ENTER"
+msgstr "SYÖTÄ"
 
 #: ../simpleline/render/adv_widgets.py:72
 msgid "Enter your passphrase"
-msgstr "Anna tunnuslauseesi"
+msgstr "Syötä salalauseesi"
 
 #: ../simpleline/render/adv_widgets.py:43
 msgid "Error"
@@ -33,11 +34,11 @@ msgstr "Virhe"
 
 #: ../simpleline/render/adv_widgets.py:167
 msgid "Help"
-msgstr "Ohjeet"
+msgstr "Apu"
 
 #: ../simpleline/render/adv_widgets.py:85
 msgid "Passphrase: "
-msgstr "Tunnuslause: "
+msgstr "Salalause: "
 
 #: ../simpleline/render/adv_widgets.py:71
 msgid "Password"
@@ -46,22 +47,22 @@ msgstr "Salasana"
 #. Default message of the prompt
 #: ../simpleline/render/prompt.py:32
 msgid "Please make a selection from the above"
-msgstr "Tee valinta yllä olevista"
+msgstr "Valitse yllä olevista"
 
 #: ../simpleline/render/adv_widgets.py:132
 #, python-format
 msgid "Please respond '%(yes)s' or '%(no)s'"
-msgstr "Ole hyvä ja vastaa'%(yes)s' vai '%(no)s'"
+msgstr "Vastaa '%(yes)s' vai '%(no)s'"
 
 #: ../simpleline/render/adv_widgets.py:52
 #, python-format
 msgid "Press %s to exit"
-msgstr "Paina %s lopettaaksesi"
+msgstr "Poistu painamalla %s"
 
 #: ../simpleline/render/adv_widgets.py:186
 #, python-format
 msgid "Press %s to return"
-msgstr "Paina %s palataksesi takaisin"
+msgstr "Palaa painamalla %s"
 
 #: ../simpleline/render/adv_widgets.py:122
 msgid "Question"
@@ -69,7 +70,7 @@ msgstr "Kysymys"
 
 #: ../simpleline/render/adv_widgets.py:173
 msgid "The help is not available."
-msgstr "Ohjeita ei ole saatavilla."
+msgstr "Apua ei ole saatavilla."
 
 #. TRANSLATORS:'c' to continue
 #: ../simpleline/render/prompt.py:42
@@ -79,7 +80,7 @@ msgstr "jatkaaksesi"
 #. TRANSLATORS:'h' to help
 #: ../simpleline/render/prompt.py:50
 msgid "to help"
-msgstr "ohjeisiin"
+msgstr "saadaksesi apua"
 
 #. TRANSLATORS: 'q' to quit
 #: ../simpleline/render/prompt.py:38
@@ -89,4 +90,4 @@ msgstr "lopettaaksesi"
 #. TRANSLATORS:'r' to refresh
 #: ../simpleline/render/prompt.py:46
 msgid "to refresh"
-msgstr "päivittääksesi"
+msgstr "virkistääksesi"
