@@ -7,84 +7,86 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-22 16:27+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-05-13 09:59+0000\n"
+"Last-Translator: Bone NI <bounkirdni@gmail.com>\n"
+"Language-Team: Lao <https://translate.fedoraproject.org/projects/python-"
+"simpleline/rhel-9/lo/>\n"
 "Language: lo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: ../simpleline/render/adv_widgets.py:43
 msgid "Error"
-msgstr ""
+msgstr "ຂໍ້ຜິດພາດ"
 
 #: ../simpleline/render/adv_widgets.py:52
 #, python-format
 msgid "Press %s to exit"
-msgstr ""
+msgstr "ກົດ %s ເພື່ອອອກ"
 
 #: ../simpleline/render/adv_widgets.py:71
 msgid "Password"
-msgstr ""
+msgstr "ລະຫັດຜ່ານ"
 
 #: ../simpleline/render/adv_widgets.py:72
 msgid "Enter your passphrase"
-msgstr ""
+msgstr "ປ້ອນວະລີຜ່ານຂອງທ່ານ"
 
 #: ../simpleline/render/adv_widgets.py:85
 msgid "Passphrase: "
-msgstr ""
+msgstr "ວະລີຜ່ານ: "
 
 #: ../simpleline/render/adv_widgets.py:122
 msgid "Question"
-msgstr ""
+msgstr "ຄຳຖາມ"
 
 #: ../simpleline/render/adv_widgets.py:132
 #, python-format
 msgid "Please respond '%(yes)s' or '%(no)s'"
-msgstr ""
+msgstr "ກະລຸນາຕອບ '%(yes)s' ຫຼື '%(no)s'"
 
 #: ../simpleline/render/adv_widgets.py:167
 msgid "Help"
-msgstr ""
+msgstr "ຊ່ວຍເຫຼືອ"
 
 #: ../simpleline/render/adv_widgets.py:173
 msgid "The help is not available."
-msgstr ""
+msgstr "ບໍ່ມີເນື້ອຫາຊ່ວຍເຫຼືອ."
 
 #: ../simpleline/render/adv_widgets.py:186
 #, python-format
 msgid "Press %s to return"
-msgstr ""
+msgstr "ກົດ %s ເພື່ອກັບຄືນ"
 
 #. Default message of the prompt
 #: ../simpleline/render/prompt.py:32
 msgid "Please make a selection from the above"
-msgstr ""
+msgstr "ກະລຸນາເລືອກຈາກລາຍການຂ້າງເທິງ"
 
 #. String to use in a prompt when we want users to press the key ENTER.
 #: ../simpleline/render/prompt.py:35
 msgid "ENTER"
-msgstr ""
+msgstr "ENTER"
 
 #. TRANSLATORS: 'q' to quit
 #: ../simpleline/render/prompt.py:38
 msgid "to quit"
-msgstr ""
+msgstr "ເພື່ອອອກ"
 
 #. TRANSLATORS:'c' to continue
 #: ../simpleline/render/prompt.py:42
 msgid "to continue"
-msgstr ""
+msgstr "ເພື່ອສືບຕໍ່"
 
 #. TRANSLATORS:'r' to refresh
 #: ../simpleline/render/prompt.py:46
 msgid "to refresh"
-msgstr ""
+msgstr "ເພື່ອໂຫຼດໃໝ່"
 
 #. TRANSLATORS:'h' to help
 #: ../simpleline/render/prompt.py:50
 msgid "to help"
-msgstr ""
+msgstr "ເພື່ອຊ່ວຍເຫຼືອ"
